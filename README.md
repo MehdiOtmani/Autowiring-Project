@@ -57,4 +57,5 @@ Your application should:
 ## Requirements
 
 1. **Play Music**: The vehicle must be able to play music using one of the `Speakers` implementations (Sony or Bose).
-2. **Move Vehicle**: The
+2. **Move Vehicle**: The vehicle must move using one of the `Tyres` implementations (BridgeStone or Michelin).
+3. **Flexibility**: The application should easily switch between the implementations of both `Speakers` and `Tyres`.
